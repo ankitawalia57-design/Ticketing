@@ -1,0 +1,6 @@
+{
+  "name": "Alpha Data Network Ticketing System",
+  "description": "Professional support ticketing portal for Alpha Data Network (ADN), managing customer incident submissions, admin dispatch, engineer updates, and stakeholder metrics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
